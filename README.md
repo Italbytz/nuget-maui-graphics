@@ -5,10 +5,3 @@
 ## See Also
 
 This package has been superseded by [`nuget-graph`](https://github.com/italbytz/nuget-graph).
-
-## See Also
-
-This package has been superseded by **[`nuget-foundation`](https://github.com/italbytz/nuget-foundation)**.
-
-
-

@@ -1,24 +1,24 @@
 # ⚠️ DEPRECATED
 
-Dieses Paket ist **deprecated** und wird zum **30. Juni 2026** entfernt.
+This package is **deprecated** and will be removed on **June 30, 2026**.
 
-## Grund der Stilllegung
+## Reason for Deprecation
 
-Dieses Paket ist nicht mehr Teil der activen Entwicklung und wird als Folge der Migrationsaktivitäten stillgelegt. Es wurde im April 2026 nach `artifacts/packages/deprecated/dotnet/` verschoben.
+This package is no longer part of active development and is being phased out as a result of migration activities completed in April 2026. It has been moved to `artifacts/packages/deprecated/dotnet/`.
 
-## Nächste Schritte
+## Next Steps
 
-Falls Sie dieses Paket noch nutzen, sollten Sie folgende Optionen in Betracht ziehen:
+If you are currently using this package, please consider the following options:
 
-1. **Alternatives Paket**: Suchen Sie ein modernes Ersatzpaket im aktiven `artifacts/packages/dotnet/` Verzeichnis
-2. **Interne Abhängigkeit**: Falls Sie dieses Paket als interne Abhängigkeit nutzen, planen Sie die Refaktorierung bis zum Sunset-Datum
-3. **Feature-Request**: Falls Sie spezifische Funktionalität benötigen, erstellen Sie einen ADR (Architectural Decision Record) für eine Neuimplementierung
+1. **Alternative Package**: Search for a modern replacement package in the active `artifacts/packages/dotnet/` directory.
+2. **Internal Dependency**: If you use this package as an internal dependency, plan your refactoring before the sunset date.
+3. **Feature Request**: If you require specific functionality, please create an ADR (Architectural Decision Record) for a new implementation.
 
-## Deprecation-Zeitplan
+## Deprecation Timeline
 
-- **13. April 2026**: Formal deprecated (Soft-Deprecation Phase)
-- **27. April 2026**: Build-Freeze - keine neuen Features
-- **11. Mai 2026**: Removal-Readiness Gate - letzte Chance für Fragen
-- **30. Juni 2026**: Hard Removal aus dem aktiven Repository
+- **April 13, 2026**: Formally deprecated (Soft-Deprecation Phase)
+- **April 27, 2026**: Build Freeze – no new features accepted
+- **May 11, 2026**: Removal-Readiness Gate – final opportunity for questions
+- **June 30, 2026**: Hard Removal from active repository
 
-Fragen? Erstellen Sie ein Issue oder kontaktieren Sie das Team.
+Questions? Please open an issue or contact the team.

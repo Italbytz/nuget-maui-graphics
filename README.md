@@ -4,11 +4,11 @@
 
 ## See Also
 
-This package has been superseded by [`nuget-graph`](https://github.com/RobinNunkesser/work/tree/main/artifacts/packages/dotnet/nuget-graph).
+This package has been superseded by [`nuget-graph`](https://github.com/italbytz/nuget-graph).
 
 ## See Also
 
-This package has been superseded by **[`nuget-foundation`](https://github.com/RobinNunkesser/work/tree/main/artifacts/packages/dotnet/nuget-foundation)**.
+This package has been superseded by **[`nuget-foundation`](https://github.com/italbytz/nuget-foundation)**.
 
 
 
